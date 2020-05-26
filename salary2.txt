@@ -1,0 +1,10 @@
+Ivanov 10000
+Petrov 20000
+Sidrov 23000
+Pupkin 25670
+NeIvanov 23455
+NePetrov 34800
+NeSidorov 78950
+NePupkin 98000
+PupkinNe 45670
+PetrovNe 78000
